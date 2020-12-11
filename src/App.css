@@ -1,0 +1,18 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.AppAlteraEstilo {
+    margin-top: 10px;
+}
+
+.AppLightMode {
+    background-color: #eee;
+}
+
+.AppDarkMode {
+    background-color: #111;
+}

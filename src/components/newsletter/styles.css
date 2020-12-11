@@ -1,0 +1,19 @@
+.newsletter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 200px;
+}
+
+.newsletterLightMode {
+    border: 1px solid #000;
+    background-color: #fff;
+    color: #000;
+}
+
+.newsletterDarkMode {
+    border: 1px solid #fff;
+    background-color: #000;
+    color: #fff;
+}
